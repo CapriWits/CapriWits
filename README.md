@@ -9,7 +9,7 @@
 
 🔗 My Site:
 
-- **Blog**: [https://hypocrite30.top/](https://hypocrite30.top/)
+- **Blog**: [https://capriwits.com](https://capriwits.com)
 - **Github**: [https://github.com/CapriWits](https://github.com/CapriWits)
 
 🎓 **Computer science and technology**
